@@ -5,7 +5,6 @@ Refactoring of the institutional travel request processor for the final assessme
 ## Team
 
 - Gabriel Remigio de Sá
-- [nome completo do segundo membro, se houver]
 
 ## Activity
 
